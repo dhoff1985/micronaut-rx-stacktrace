@@ -1,0 +1,10 @@
+micronaut:
+  application:
+    name: rx-stacktrace
+  server:
+    port: 8080
+  http:
+    client:
+      read-timeout: 50ms
+      pool:
+        enabled: true

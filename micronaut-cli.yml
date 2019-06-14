@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: rx.stacktrace
+---
+testFramework: spock
+sourceLanguage: groovy
